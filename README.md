@@ -44,7 +44,7 @@ AS A user who is wanting to learn code,
 <br>
 I WANT to find relevant resources,
 <br>
-SO THAT I can save it.
+SO THAT I can save them.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
